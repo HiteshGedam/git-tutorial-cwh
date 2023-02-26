@@ -1,4 +1,0 @@
-this is v1 of project file
-this is going to commit 2
-changed by hitesh
-this is changed now
